@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-28 14:26-0700\n"
 "PO-Revision-Date: 2019-01-25 19:01-0700\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: Filip Blajiu<filipblajiu@gmail.com>"
 "Language-Team: none\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -21,52 +21,55 @@ msgstr ""
 #: data/com.github.cassidyjames.ideogram.appdata.xml.in:7
 #: data/launcher.desktop.in:3 src/MainWindow.vala:33
 msgid "Ideogram"
-msgstr ""
+msgstr "Emoticon"
 
 #: data/com.github.cassidyjames.ideogram.appdata.xml.in:8
 msgid "Insert emoji anywhere 🎉"
-msgstr ""
+msgstr "Inserează oriunde un emoticon 🎉"
 
 #: data/com.github.cassidyjames.ideogram.appdata.xml.in:10
 msgid ""
 "Quickly insert emoji anywhere you can paste text, including non-native apps. "
 "Hit ⌘+E to open the emoji picker, choose the emoji you want, and it’s "
 "instantly copied and pasted into any focused text input. 👍"
-msgstr ""
+msgstr "Inserează rapid și în orice loc un emoticon, chiar și în aplicațiile care nu sunt native. "
+"Apasă ⌘+E pentru a deschide selectorul de emoticoane, alege emoticonul dorit, și va fi "
+"copiat și inserat în câmpul text selectat. 👍"
 
 #: data/com.github.cassidyjames.ideogram.appdata.xml.in:11
 msgid ""
 "Not feeling the default keyboard shortcut? Head to System Settings → "
 "Keyboard → Shortcuts → Custom to set it to anything you’d like."
-msgstr ""
+msgstr "Nu îți place scurtătura standard pentru tastatură? Mergi la Setările de sistem → "
+"Tastatură → Combinații de taste → Personalizat pentru a alege combinția dorită."
 
 #: data/com.github.cassidyjames.ideogram.appdata.xml.in:93
 msgid "Cassidy James Blaede"
-msgstr ""
+msgstr "Cassidy James Blaede"
 
 #: data/launcher.desktop.in:4
 msgid "Emoji Input"
-msgstr ""
+msgstr "Câmp emoticon"
 
 #: data/launcher.desktop.in:5
 msgid "Insert emoji anywhere"
-msgstr ""
+msgstr "Inserează oriunde un emoticon"
 
 #: data/launcher.desktop.in:8
 msgid "com.github.cassidyjames.ideogram"
-msgstr ""
+msgstr "com.github.cassidyjames.ideogram"
 
 #: data/launcher.desktop.in:12
 msgid ""
 "emoji;insert;copy;paste;emoticons;smiley;smilies;pictures;icons;keyboard;☺;"
-msgstr ""
+msgstr "emoticon;inserează;copiază;lipește;emoticoane;figurină;figurine;imagini;icoane;tastatură;☺;"
 
 #: src/MainWindow.vala:50
 msgid "Select Emoji to Insert"
-msgstr ""
+msgstr "Selectează și inserează un emoticon."
 
 #: src/MainWindow.vala:53
 msgid ""
 "Selecting will copy the emoji to the clipboard and paste into any focused "
-"text input."
-msgstr ""
+"text input.
+msgstr "Selectând un emoticon va fi copiat în clipboard și lipit în orice câmp text selectat."
